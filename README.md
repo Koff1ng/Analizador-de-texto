@@ -1,0 +1,1 @@
+Este codigo nos permite analizar un texto ingresado y decirnos cuantas palabras tiene, el primer y ultimo caracter, invertir su orden y revisar la existencia de la palabra "Python" en el texto ingresado, gracias.
